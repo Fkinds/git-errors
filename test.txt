@@ -1,1 +1,1 @@
-first commit 
+通常のmerge push
