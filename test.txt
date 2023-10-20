@@ -1,1 +1,1 @@
-通常のmerge push
+developが更新される前に作業を始める
